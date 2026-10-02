@@ -1,0 +1,19 @@
+Sample product photos for the shop page. Replace with your own product photos when available.
+Photos marked CC BY / CC BY-SA require this credit to stay published alongside them.
+
+clear-coat.jpg       Public domain, Airman 1st Class Jonathan Snyder, U.S. Air Force — https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_070412-F-4127S-028.jpg
+cutting-discs.jpg    CC BY-SA 4.0, Ralf Pfeifer — https://commons.wikimedia.org/wiki/File:Winkelschleifer_Trennscheibe_Metall.jpg
+da-sander.jpg        CC BY 2.0, Mark Hunter — https://commons.wikimedia.org/wiki/File:Makita_BO5041_Random_Orbit_Sander_(6169161017).jpg
+flap-disc.jpg        CC BY-SA 4.0, Baihongbin — https://commons.wikimedia.org/wiki/File:Flexible_Flap_Disc_D100mm.jpg
+masking-tape.jpg     CC BY-SA 3.0, Neitram — https://commons.wikimedia.org/wiki/File:Malerkrepp.jpg
+nitrile-gloves.jpg   PDM 1.0, samuelemunemu321 — https://www.flickr.com/photos/144303299@N04/51911218858
+paint-suit.jpg       CC BY-SA 3.0, Jarek Tuszyński — https://commons.wikimedia.org/wiki/File:Tyvek_Suits_(cropped).jpg
+primer.jpg           BY-SA 2.0, aresauburn™ — https://www.flickr.com/photos/9993075@N06/4646772090
+respirator.jpg       CC BY 2.5, Ryssby at English Wikipedia — https://commons.wikimedia.org/wiki/File:Police_officer_wearing_half-mask_respirator.jpg
+sanding-discs.jpg    CC BY-SA 4.0, MirkaSchleifmittel — https://commons.wikimedia.org/wiki/File:Electric_sanders_and_Net_products.jpg
+seam-sealer.jpg      CC BY-SA 3.0, Photograph:  Frank C. Müller, Baden-Baden — https://commons.wikimedia.org/wiki/File:Silikonpistole_(fcm).jpg
+spray-gun.jpg        CC BY-SA 4.0, Imanza369 — https://commons.wikimedia.org/wiki/File:%D9%BE%DB%8C%D8%B3%D8%AA%D9%88%D9%84%D9%87_%D8%B1%D9%86%DA%AF_%D8%AD%D8%B1%D9%81%D9%87_%D8%A7%DB%8C_%D8%B3%D9%87_%D8%AA%D9%86%D8%B8%DB%8C%D9%85_%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DA%A9%D9%88_%D9%85%D8%AF%D9%84_ITALCO_TTS.jpg
+tack-cloth.jpg       Public domain, Polyesterchen — https://commons.wikimedia.org/wiki/File:Microfibre_cloth.jpg
+
+masking film  -> assets/img/film-sm.jpg (Unsplash, see assets/img/CREDITS.txt)
+cutting compound -> assets/img/polishing-sm.jpg (Unsplash, see assets/img/CREDITS.txt)
